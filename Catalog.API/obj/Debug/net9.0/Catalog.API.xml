@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Catalog.API</name>
+    </assembly>
+    <members>
+        <member name="M:Catalog.API.Controllers.ProductsController.GetAllProducts(Catalog.Core.Specifications.ProductSpecification)">
+            <summary>
+            Sorting options: "priceAsc", "priceDesc", "titleAsc", "titleDesc"
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

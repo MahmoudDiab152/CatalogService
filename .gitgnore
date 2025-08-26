@@ -1,0 +1,7 @@
+# Ignore build and IDE files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.dbmdl

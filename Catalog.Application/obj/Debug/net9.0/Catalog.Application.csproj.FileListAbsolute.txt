@@ -1,0 +1,15 @@
+E:\Projects\Catalog.API\Catalog.Application\bin\Debug\net9.0\Catalog.Application.deps.json
+E:\Projects\Catalog.API\Catalog.Application\bin\Debug\net9.0\Catalog.Application.dll
+E:\Projects\Catalog.API\Catalog.Application\bin\Debug\net9.0\Catalog.Application.pdb
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\Catalog.Application.AssemblyInfoInputs.cache
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\Catalog.Application.AssemblyInfo.cs
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\Catalog.Application.csproj.CoreCompileInputs.cache
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\Catalog.Application.dll
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\refint\Catalog.Application.dll
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\Catalog.Application.pdb
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\ref\Catalog.Application.dll
+E:\Projects\Catalog.API\Catalog.Application\bin\Debug\net9.0\Catalog.Core.dll
+E:\Projects\Catalog.API\Catalog.Application\bin\Debug\net9.0\Catalog.Core.pdb
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\Catalog.Application.csproj.AssemblyReference.cache
+E:\Projects\Catalog.API\Catalog.Application\obj\Debug\net9.0\Catalog..75771DFE.Up2Date
