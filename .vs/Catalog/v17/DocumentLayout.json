@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Catalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A13F2CC-BE20-45FA-9941-CF00F8577FA5}|Catalog.Application\\Catalog.Application.csproj|e:\\projects\\catalog\\catalog.application\\dtos\\ratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A13F2CC-BE20-45FA-9941-CF00F8577FA5}|Catalog.Application\\Catalog.Application.csproj|solutionrelative:catalog.application\\dtos\\ratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7949766C-0179-4CBD-A042-01FA87B0C4AC}|Catalog.Core\\Catalog.Core.csproj|e:\\projects\\catalog\\catalog.core\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7949766C-0179-4CBD-A042-01FA87B0C4AC}|Catalog.Core\\Catalog.Core.csproj|solutionrelative:catalog.core\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7949766C-0179-4CBD-A042-01FA87B0C4AC}|Catalog.Core\\Catalog.Core.csproj|e:\\projects\\catalog\\catalog.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7949766C-0179-4CBD-A042-01FA87B0C4AC}|Catalog.Core\\Catalog.Core.csproj|solutionrelative:catalog.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2DD786-EB1D-4348-A157-D34638FC0206}|Catalog.Infrastructure\\Catalog.Infrastructure.csproj|e:\\projects\\catalog\\catalog.infrastructure\\externalservices\\externalproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2DD786-EB1D-4348-A157-D34638FC0206}|Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:catalog.infrastructure\\externalservices\\externalproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExternalProductService.cs",
+              "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.Infrastructure\\ExternalServices\\ExternalProductService.cs",
+              "RelativeDocumentMoniker": "Catalog.Infrastructure\\ExternalServices\\ExternalProductService.cs",
+              "ToolTip": "E:\\Projects\\Catalog\\Catalog.Infrastructure\\ExternalServices\\ExternalProductService.cs",
+              "RelativeToolTip": "Catalog.Infrastructure\\ExternalServices\\ExternalProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:32:10.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog.Core\\Entities\\Product.cs",
+              "ToolTip": "E:\\Projects\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Catalog.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:23:32.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RatingDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.Application\\DTOs\\RatingDto.cs",
+              "RelativeDocumentMoniker": "Catalog.Application\\DTOs\\RatingDto.cs",
+              "ToolTip": "E:\\Projects\\Catalog\\Catalog.Application\\DTOs\\RatingDto.cs",
+              "RelativeToolTip": "Catalog.Application\\DTOs\\RatingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:28:16.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.Core\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "Catalog.Core\\Entities\\Rating.cs",
+              "ToolTip": "E:\\Projects\\Catalog\\Catalog.Core\\Entities\\Rating.cs",
+              "RelativeToolTip": "Catalog.Core\\Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:20:42.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

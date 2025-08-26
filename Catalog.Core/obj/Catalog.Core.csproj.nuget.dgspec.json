@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Catalog.API\\Catalog.Core\\Catalog.Core.csproj": {}
+    "E:\\Projects\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Catalog.API\\Catalog.Core\\Catalog.Core.csproj": {
+    "E:\\Projects\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Catalog.API\\Catalog.Core\\Catalog.Core.csproj",
+        "projectUniqueName": "E:\\Projects\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
         "projectName": "Catalog.Core",
-        "projectPath": "E:\\Projects\\Catalog.API\\Catalog.Core\\Catalog.Core.csproj",
+        "projectPath": "E:\\Projects\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
         "packagesPath": "C:\\Users\\mahmoud\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Catalog.API\\Catalog.Core\\obj\\",
+        "outputPath": "E:\\Projects\\Catalog\\Catalog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

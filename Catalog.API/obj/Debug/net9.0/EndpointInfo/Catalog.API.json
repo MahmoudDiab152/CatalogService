@@ -145,7 +145,9 @@
       "RatingDto": {
         "type": "object",
         "properties": {
-          "rating": {
+          "rate": {
+            "maximum": 5,
+            "minimum": 0,
             "type": "number",
             "format": "double"
           },

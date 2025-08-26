@@ -1,7 +1,17 @@
-# Ignore build and IDE files
-bin/
-obj/
+# Visual Studio
 .vs/
 *.user
 *.suo
-*.dbmdl
+
+# Build
+bin/
+obj/
+
+# Rider / IDE files
+.idea/
+
+# Logs
+*.log
+
+# Packages
+*.nupkg
