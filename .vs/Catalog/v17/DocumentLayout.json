@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "E:\\Projects\\Catalog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D57B7E40-22EB-484A-BC33-4523E81083F7}|Catalog.API\\Catalog.API.csproj|e:\\projects\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57B7E40-22EB-484A-BC33-4523E81083F7}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57B7E40-22EB-484A-BC33-4523E81083F7}|Catalog.API\\Catalog.API.csproj|e:\\projects\\catalog\\catalog.api\\config\\swaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57B7E40-22EB-484A-BC33-4523E81083F7}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\config\\swaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57B7E40-22EB-484A-BC33-4523E81083F7}|Catalog.API\\Catalog.API.csproj|e:\\projects\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D57B7E40-22EB-484A-BC33-4523E81083F7}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57B7E40-22EB-484A-BC33-4523E81083F7}|Catalog.API\\Catalog.API.csproj|e:\\projects\\catalog\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D57B7E40-22EB-484A-BC33-4523E81083F7}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2DD786-EB1D-4348-A157-D34638FC0206}|Catalog.Infrastructure\\Catalog.Infrastructure.csproj|e:\\projects\\catalog\\catalog.infrastructure\\externalservices\\externalproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2DD786-EB1D-4348-A157-D34638FC0206}|Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:catalog.infrastructure\\externalservices\\externalproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A13F2CC-BE20-45FA-9941-CF00F8577FA5}|Catalog.Application\\Catalog.Application.csproj|e:\\projects\\catalog\\catalog.application\\dtos\\ratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A13F2CC-BE20-45FA-9941-CF00F8577FA5}|Catalog.Application\\Catalog.Application.csproj|solutionrelative:catalog.application\\dtos\\ratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7949766C-0179-4CBD-A042-01FA87B0C4AC}|Catalog.Core\\Catalog.Core.csproj|e:\\projects\\catalog\\catalog.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7949766C-0179-4CBD-A042-01FA87B0C4AC}|Catalog.Core\\Catalog.Core.csproj|solutionrelative:catalog.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C2DD786-EB1D-4348-A157-D34638FC0206}|Catalog.Infrastructure\\Catalog.Infrastructure.csproj|e:\\projects\\catalog\\catalog.infrastructure\\externalservices\\externalproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C2DD786-EB1D-4348-A157-D34638FC0206}|Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:catalog.infrastructure\\externalservices\\externalproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwaggerOptions.cs",
+              "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.API\\Config\\SwaggerOptions.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Config\\SwaggerOptions.cs",
+              "ToolTip": "E:\\Projects\\Catalog\\Catalog.API\\Config\\SwaggerOptions.cs",
+              "RelativeToolTip": "Catalog.API\\Config\\SwaggerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:54:13.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalog.API",
+              "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "E:\\Projects\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T22:53:48.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Catalog.API\\appsettings.json",
+              "ToolTip": "E:\\Projects\\Catalog\\Catalog.API\\appsettings.json",
+              "RelativeToolTip": "Catalog.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T22:50:21.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Program.cs",
+              "ToolTip": "E:\\Projects\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Catalog.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:49:29.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ExternalProductService.cs",
               "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.Infrastructure\\ExternalServices\\ExternalProductService.cs",
               "RelativeDocumentMoniker": "Catalog.Infrastructure\\ExternalServices\\ExternalProductService.cs",
               "ToolTip": "E:\\Projects\\Catalog\\Catalog.Infrastructure\\ExternalServices\\ExternalProductService.cs",
               "RelativeToolTip": "Catalog.Infrastructure\\ExternalServices\\ExternalProductService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBIAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T22:32:10.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.Core\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Catalog.Core\\Entities\\Product.cs",
@@ -51,12 +119,11 @@
               "RelativeToolTip": "Catalog.Core\\Entities\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T22:23:32.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T22:23:32.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RatingDto.cs",
               "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.Application\\DTOs\\RatingDto.cs",
               "RelativeDocumentMoniker": "Catalog.Application\\DTOs\\RatingDto.cs",
@@ -64,12 +131,11 @@
               "RelativeToolTip": "Catalog.Application\\DTOs\\RatingDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T22:28:16.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T22:28:16.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Rating.cs",
               "DocumentMoniker": "E:\\Projects\\Catalog\\Catalog.Core\\Entities\\Rating.cs",
               "RelativeDocumentMoniker": "Catalog.Core\\Entities\\Rating.cs",
@@ -77,8 +143,7 @@
               "RelativeToolTip": "Catalog.Core\\Entities\\Rating.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T22:20:42.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T22:20:42.581Z"
             }
           ]
         }

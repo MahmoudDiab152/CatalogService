@@ -1,4 +1,5 @@
 
+using Catalog.API.Config;
 using Catalog.Application.Interfaces;
 using Catalog.Infrastructure.ExternalServices;
 using Microsoft.AspNetCore.Builder;
@@ -20,28 +21,28 @@ namespace Catalog.API
                 options.AssumeDefaultVersionWhenUnspecified = true;
                 options.DefaultApiVersion = new Asp.Versioning.ApiVersion(1, 0);
             });
+            var swaggerConfig = builder.Configuration.GetSection("Swagger").Get<SwaggerOptions>();
             builder.Services.AddSwaggerGen(options =>
             {
                 var xmlFile = $"{System.Reflection.Assembly.GetExecutingAssembly().GetName().Name}.xml";
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
                 options.IncludeXmlComments(xmlPath, includeControllerXmlComments: true);
-                options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                options.SwaggerDoc(swaggerConfig.Version, new Microsoft.OpenApi.Models.OpenApiInfo
                 {
-                    Title = "Catalog API",
-                    Version = "v1",
+                    Title = swaggerConfig.Title,
+                    Version = swaggerConfig.Version,
                     Contact = new Microsoft.OpenApi.Models.OpenApiContact
                     {
-                        Name = "Mahmoud Diab",
-                        Email = "mahmouddiab152@gmail.com",
-                        Url = new Uri("https://github.com/MahmoudDiab152")
-
+                        Name = swaggerConfig.Contact.Name,
+                        Email = swaggerConfig.Contact.Email,
+                        Url = new Uri(swaggerConfig.Contact.Url)
                     }
                 });
             });
             // Register My Services
             builder.Services.AddHttpClient<IExternalProductService, ExternalProductService>(client =>
             {
-                client.BaseAddress = new Uri("https://fakestoreapi.com/"); // External API Base URL
+                client.BaseAddress = new Uri(builder.Configuration["ExternalApis:ProductService"]); // External API Base URL
             });
 
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
