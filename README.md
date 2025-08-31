@@ -113,7 +113,7 @@ GET /api/v1/Products/GetAllProducts?PageIndex=1&PageSize=5&Sort=priceAsc&Search=
 git clone https://github.com/MahmoudDiab152/CatalogService.git
 cd CatalogService
 dotnet build
-dotnet run --project src/Catalog.Service
+dotnet run --project Catalog.API
 ```
 
 Open in browser:
